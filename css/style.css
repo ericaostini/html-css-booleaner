@@ -41,9 +41,34 @@ figure{
 }
 
 div{
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
-#underlined{
+.underlined{
     background-color: rgba(255, 255, 0, 0.819);
+}
+
+table{
+    margin-top: 30px;
+}
+
+.first .second{
+    width: 20%;
+}
+
+.third{
+    width: 45%;
+}
+
+thead{
+    background-color: rgb(31, 169, 229);
+    color: white;
+}
+
+tbody{
+    background-color: rgb(177, 229, 242);
+}
+
+#second-row{
+    background-color: rgb(246, 244, 244);
 }
