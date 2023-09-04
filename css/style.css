@@ -17,6 +17,10 @@ h1{
     margin-bottom: 0;
 }
 
+h3{
+    color: rgba(0, 0, 0, 0.608);
+}
+
 p{
     color: rgba(0, 0, 0, 0.608);
     margin: 0;
@@ -71,4 +75,32 @@ tbody{
 
 #second-row{
     background-color: rgb(246, 244, 244);
+}
+
+.monitor{
+    margin: 0px;
+    background-image: url("../img/monitor.jpg");
+    width: 200px;
+    height: 150px;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding: 8px;
+}
+
+h4{
+    color: rgba(0, 0, 0, 0.623);
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+.graph{
+    margin: 0px;
+    background-image: url("../img/graph.jpg");
+    width: 200px;
+    height: 150px;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding: 8px;
+    margin-top: 10px;
 }
